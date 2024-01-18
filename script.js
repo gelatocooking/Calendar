@@ -4,7 +4,7 @@ import generateDays from "./components/generateDays.js"
 import getDate from "./components/getDate.js"
 import timeOutput from "./components/timeOutput.js"
 import DayInterface from "./components/createDayInterface.js"
-import interfaceMenu from "./components/interfaceMenu.js"
+
 
 let date = getDate()
 
